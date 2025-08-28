@@ -1,0 +1,13 @@
+Garbage Detected: garbage, Location: Nagpur, Coordinates: [21.1463, 79.0849], Timestamp: 2025-03-15 22:56:20
+Garbage Detected: garbage, Location: Nagpur, Coordinates: [21.1463, 79.0849], Timestamp: 2025-03-15 22:56:21
+Garbage Detected: garbage, Location: Nagpur, Coordinates: [21.1463, 79.0849], Timestamp: 2025-03-15 22:56:22
+Garbage Detected: garbage, Location: Nagpur, Coordinates: [21.1463, 79.0849], Timestamp: 2025-03-15 22:56:23
+Garbage Detected: garbage, Location: Nagpur, Coordinates: [21.1463, 79.0849], Timestamp: 2025-03-15 22:56:24
+Garbage Detected: garbage, Location: Nagpur, Coordinates: [21.1463, 79.0849], Timestamp: 2025-03-15 22:56:54
+Garbage Detected: garbage, Location: Nagpur, Coordinates: [21.1463, 79.0849], Timestamp: 2025-03-15 22:56:56
+Garbage Detected: garbage, Location: Nagpur, Coordinates: [21.1463, 79.0849], Timestamp: 2025-03-15 22:56:58
+Garbage Detected: garbage, Location: Nagpur, Coordinates: [21.1463, 79.0849], Timestamp: 2025-03-15 22:57:00
+Garbage Detected: garbage, Location: Nagpur, Coordinates: [21.1463, 79.0849], Timestamp: 2025-03-15 22:57:01
+Garbage Detected: garbage, Location: Nagpur, Coordinates: [21.1463, 79.0849], Timestamp: 2025-03-15 22:57:02
+Garbage Detected: garbage, Location: Nagpur, Coordinates: [21.1463, 79.0849], Timestamp: 2025-03-15 22:57:05
+Garbage Detected: garbage, Location: Nagpur, Coordinates: [21.1463, 79.0849], Timestamp: 2025-03-15 22:57:07
